@@ -1,6 +1,6 @@
 [//]: # (title: Basic types)
 
-<no-index/>
+<santo-index/>
 
 
 Every variable and data structure in Kotlin has a type. Types are important because they tell the compiler what you are allowed to 
